@@ -1,0 +1,16 @@
+/* Table Stlying */
+  /* Table flashing between rows */
+  tbody > tr:nth-of-type(2n) {
+       background-color: rgba(10,36,50,.05) !important;
+  }
+  tbody > tr:nth-of-type(2n+1) {
+       background-color: #fff !important;
+  }
+  /* Reseting Table column widths */
+  div.th-inner-header {
+       width: initial !important;  
+  }
+  /* Remove extra right border in last element of heading */
+  thead > tr > th:last-child > div.th-inner-header {
+       border-right: 0px !important;
+  }
