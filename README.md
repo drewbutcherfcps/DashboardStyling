@@ -1,5 +1,5 @@
 Go to https://azdemo.hoonuit.com/Dashboard/ 
-1. Example of Level 4 Navigation (see Essentials > District > Summary)
+1. Example of Level 4 Navigation (see Essentials > District)
 ![before](https://github.com/drewbutcherfcps/DashboardStyling/blob/master/Level%204%20Navigation%20Before.png)
 ![after](https://github.com/drewbutcherfcps/DashboardStyling/blob/master/Level%204%20Navigation%20After.png)
 ```CSS
