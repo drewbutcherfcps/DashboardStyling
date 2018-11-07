@@ -1,5 +1,5 @@
 Go to https://azdemo.hoonuit.com/Dashboard/ 
-1. Essentials for example of Level 4 Navigation
+1. Example of Level 4 Navigation (see Essentials > District > Summary)
 ![before](https://github.com/drewbutcherfcps/DashboardStyling/blob/master/Level%204%20Navigation%20Before.png)
 ![after](https://github.com/drewbutcherfcps/DashboardStyling/blob/master/Level%204%20Navigation%20After.png)
 ```CSS
@@ -12,7 +12,7 @@ Go to https://azdemo.hoonuit.com/Dashboard/
      top: 34px;
 }
 ```
-2. Essentials > Enrollment > Programs for example of Table
+2. Example of Table (see Essentials > Enrollment > Programs)
 ![before](https://github.com/drewbutcherfcps/DashboardStyling/blob/master/Table%20Before.png)
 ![after](https://github.com/drewbutcherfcps/DashboardStyling/blob/master/Table%20After.png)
 ```CSS
